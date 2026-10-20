@@ -6,7 +6,7 @@ Python / 全栈，人在长沙。
 
 湖南博皓数字品牌运营管理有限公司 · Python 开发工程师
 
-[简历网站](https://ouyang0419.github.io) · [3170387400@qq.com](mailto:3170387400@qq.com)
+[简历网站](https://ouyang0419.github.io) · [3170387400@qq.com](mailto:3170387400@qq.com) · [19065145245@163.com](mailto:19065145245@163.com)
 
 ## 在做
 
